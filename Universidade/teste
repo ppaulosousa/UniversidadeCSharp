@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImportExport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <al>
+    <Aluno>
+      <Codigo_Postal>0</Codigo_Postal>
+      <Telemovel>0</Telemovel>
+      <BI>0</BI>
+      <Horas_semanais>0</Horas_semanais>
+      <N_Aluno>0</N_Aluno>
+      <nt>
+        <Notas>
+          <Disciplina>Computação Gráfica</Disciplina>
+          <Nota>18</Nota>
+        </Notas>
+        <Notas>
+          <Disciplina>Língua Portuguesa</Disciplina>
+          <Nota>19</Nota>
+        </Notas>
+        <Notas>
+          <Disciplina>História</Disciplina>
+          <Nota>12</Nota>
+        </Notas>
+      </nt>
+    </Aluno>
+    <Aluno>
+      <Nome>Catarina Sousa</Nome>
+      <Morada>Beato</Morada>
+      <Codigo_Postal>1950042</Codigo_Postal>
+      <Telemovel>911972770</Telemovel>
+      <BI>12345</BI>
+      <Email>catarina@catarina</Email>
+      <Horas_semanais>50</Horas_semanais>
+      <N_Aluno>4444</N_Aluno>
+    </Aluno>
+  </al>
+  <dc>
+    <Docente>
+      <Nome>Paulo Sousa</Nome>
+      <Morada>Beato</Morada>
+      <Codigo_Postal>1950042</Codigo_Postal>
+      <Telemovel>911972770</Telemovel>
+      <BI>123456</BI>
+      <Email>11062219@lis.ulusiada.pt</Email>
+      <Horas_semanais>100</Horas_semanais>
+      <N_Docente>123</N_Docente>
+    </Docente>
+  </dc>
+</ImportExport>

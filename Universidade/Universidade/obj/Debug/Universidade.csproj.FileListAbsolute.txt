@@ -1,0 +1,14 @@
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\obj\Debug\Universidade.frmAluno.resources
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\obj\Debug\Universidade.frmDocente.resources
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\obj\Debug\Universidade.frmListaDados.resources
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\obj\Debug\Universidade.frmGrauDocente.resources
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\obj\Debug\Universidade.frmNotasDiciplinas.resources
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\obj\Debug\Universidade.frmUniversidade.resources
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\obj\Debug\Universidade.Properties.Resources.resources
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\obj\Debug\Universidade.csproj.GenerateResource.cache
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\bin\Debug\Universidade.exe.config
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\bin\Debug\Universidade.exe
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\bin\Debug\Universidade.pdb
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\obj\Debug\Universidade.exe
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\obj\Debug\Universidade.pdb
+C:\Users\ppaul\Dropbox\Paulo\laboratorios\c#\Universidade\Universidade\obj\Debug\Universidade.csprojAssemblyReference.cache
